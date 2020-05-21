@@ -1,0 +1,4 @@
+tensorflow==2.2.0
+Flask==1.1.2
+Flask-Bootstrap==3.3.7.1
+Pillow==7.1.2
