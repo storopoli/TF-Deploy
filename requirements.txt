@@ -1,4 +1,4 @@
 tensorflow>=2.2.1
-Flask==1.1.2
+Flask==2.3.2
 Flask-Bootstrap==3.3.7.1
 Pillow==8.3.2
